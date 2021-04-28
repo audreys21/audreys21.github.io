@@ -1,14 +1,33 @@
 h1 {
-	color: #042A2B;
+	color: #102542;
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-align: center;
+}
+h2 {
+	color: #102542;
 	font-family: 'Open Sans Condensed', sans-serif;
 }
 body {
-	background-color: #FBFBDA;
+	background-color: #FFA3A5;
 }
 .header {
-	background-color: #CCC9E7:;
-	padding: 20px 15px;
+	background-color: #F1F7ED;
+	padding: 1px 5px;
 }
 p {
 	font-family: 'Work Sans', sans-serif;
+	color: #102542;
+}
+a:hover {
+	color: #F1F7ED;
+}
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 60;
+}
+img {
+	border: 6px solid #F1F7ED;
+	border-radius: 10%;
 }
